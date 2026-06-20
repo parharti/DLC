@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment — never commit secrets
+.env
+.env.*
+
+# Database (SQLite — app uses MongoDB now)
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
+
+# Scratch / backup files
+DCC-portal.html
+AA1HXCnh.webp
+OIP (1).webp
